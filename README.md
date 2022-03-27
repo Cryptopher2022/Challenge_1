@@ -12,3 +12,5 @@ equal to $500.
 The results are obtained and printed in real time and also exported to a CSV file called
 "inexpensive_loans.csv" where the data header is placed at the top and each loan that passed
 the evaluation criteria is displayed.  
+During the exercise of building this program, the original program loan_analyzer_1.py was corrupted and 
+was saved as a new file called loan_analyzer_1a.py.  
